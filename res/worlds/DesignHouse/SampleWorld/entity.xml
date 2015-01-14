@@ -1,0 +1,16 @@
+
+<entities file_version="0.1">
+	<entity bz="19200" bx="19199" by="2" item_id="20002" class="EntityHomePoint" name="player_spawn_point">
+		<cmd>/sky sim
+		</cmd>
+		<inventory/>
+	</entity>
+	<entity class="EntityDesktop" name="desktop">
+		<inventory>
+			<slot id="10052" count="1">{"欢迎来到我的世界#请仔细阅读规则#=到创意论坛来支持我的作品哦~=#[[http://bbs.paraengine.com/forum.php][点我进入论坛]]",tooltip="作者的话",}
+			</slot>
+			<slot id="10060" count="1">{"http://bbs.paraengine.com/forum.php?mod=forumdisplay&amp;fid=50",tooltip="到论坛支持作者，给作者留言[bbs]",}
+			</slot>
+		</inventory>
+	</entity>
+</entities>

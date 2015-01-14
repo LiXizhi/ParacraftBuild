@@ -1,0 +1,17 @@
+<!-- creator app module. 
+@param mc_default_world: default world path. 
+-->
+<regions>
+  <!-- this overwrite file ExternalUserModule.[kids|teen].xml -->
+  <region region_id="*" locale=".*">
+    <title_url value="创意空间 http://cc.paraengine.com"/>
+    <!--<logo_bottom_b anner_page value="script/apps/Aries/Creator/Game/Login/LoginPage.html"/>-->
+    <company value="ParaEngine"/>
+    <product_logo_url value="margin-top:75px;margin-left:0px;width:512px;height:128px;background:url(Texture/Aries/Creator/Login/mc_logo_32bits.png)" />
+    <product_name value="创意空间" />
+    <!--<login_bg_worldpath value="worlds/DesignHouse/CreatorLoginBG" />-->
+    <game_login_bg value="Texture/Aries/Creator/Login/Creator_Login_bg.jpg"/>
+    <mc_login_bg value="Texture/Aries/Creator/Login/Creator_Login_bg.jpg"/>
+    <mc_default_world value="worlds/DesignHouse/CreatorLoginBG"/>
+  </region>
+</regions>

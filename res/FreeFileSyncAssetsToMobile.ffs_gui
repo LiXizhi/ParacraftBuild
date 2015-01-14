@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FreeFileSync XmlFormat="4" XmlType="GUI">
+    <MainConfig>
+        <Comparison>
+            <Variant>TimeAndSize</Variant>
+            <TimeShift>0</TimeShift>
+            <Symlinks>Exclude</Symlinks>
+        </Comparison>
+        <SyncConfig>
+            <Variant>TwoWay</Variant>
+            <CustomDirections>
+                <LeftOnly>right</LeftOnly>
+                <RightOnly>left</RightOnly>
+                <LeftNewer>right</LeftNewer>
+                <RightNewer>left</RightNewer>
+                <Different>none</Different>
+                <Conflict>none</Conflict>
+            </CustomDirections>
+            <DetectMovedFiles>false</DetectMovedFiles>
+            <DeletionPolicy>RecycleBin</DeletionPolicy>
+            <VersioningFolder Style="Replace"/>
+        </SyncConfig>
+        <GlobalFilter>
+            <Include>
+                <Item>*</Item>
+            </Include>
+            <Exclude>
+                <Item>\System Volume Information\</Item>
+                <Item>\$Recycle.Bin\</Item>
+                <Item>\RECYCLER\</Item>
+                <Item>\RECYCLED\</Item>
+                <Item>*\desktop.ini</Item>
+                <Item>*\thumbs.db</Item>
+            </Exclude>
+            <TimeSpan Type="None">0</TimeSpan>
+            <SizeMin Unit="None">0</SizeMin>
+            <SizeMax Unit="None">0</SizeMax>
+        </GlobalFilter>
+        <FolderPairs>
+            <Pair>
+                <Left/>
+                <Right/>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\character\Animation\CC</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\character\Animation\CC</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.x</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\config\Aries\creator\language</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\config\Aries\creator\language</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.mo</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\Aries\Creator\Theme</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\Aries\Creator\Theme</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>GameCommonIcon_32bits.png</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\Aries\Creator\player</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\Aries\Creator\player</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.png</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\Aries\Creator\Mobile</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\Aries\Creator\Mobile</Right>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\character\v6\09effect\Block_Piece\</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\character\v6\09effect\Block_Piece\</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.x</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\character\CC</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\character\CC</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.x</Item>
+                        <Item>*.xml</Item>
+                        <Item>*.png</Item>
+                        <Item>*.dds</Item>
+                    </Include>
+                    <Exclude>
+                        <Item>*Note*</Item>
+                    </Exclude>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\model\blockworld</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\model\blockworld</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.x</Item>
+                        <Item>*.png</Item>
+                    </Include>
+                    <Exclude>
+                        <Item>*.max</Item>
+                    </Exclude>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+        </FolderPairs>
+        <OnCompletion/>
+    </MainConfig>
+    <GuiConfig>
+        <HandleError>Popup</HandleError>
+        <MiddleGridView>Action</MiddleGridView>
+    </GuiConfig>
+</FreeFileSync>
