@@ -42,6 +42,25 @@
                 <Right/>
             </Pair>
             <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\config\Aries\creator</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\config\Aries\creator</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*.xml</Item>
+                        <Item>*.mo</Item>
+                    </Include>
+                    <Exclude>
+                        <Item>\blocktemplates\</Item>
+                        <Item>\bom\</Item>
+                        <Item>\buildingtask\</Item>
+                        <Item>\obsoleted\</Item>
+                    </Exclude>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
                 <Left>D:\lxzsrc\ParaEngine\ParaWorld\character\Animation\CC</Left>
                 <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\character\Animation\CC</Right>
                 <LocalFilter>

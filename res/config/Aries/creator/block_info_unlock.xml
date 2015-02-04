@@ -1,0 +1,9 @@
+<!--config/Aries/creator/block_info_unlock.xml
+level: "from_level, to_level", 定义一个等级区间。 可以重叠或重复。 可以是单个数字。 
+inner text：comma sperated list of block id or names, name is preferred for human readbility. 
+pres: 前置条件 {[task_id]=count,}
+-->
+<levels>
+  <level level="0-1">62,55</level>
+  <level level="2" pres="{'0_1',}">Water,Still_water</level>
+</levels>
