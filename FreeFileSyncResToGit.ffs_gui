@@ -41,6 +41,21 @@
                 <Left/>
                 <Right/>
             </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res</Left>
+                <Right>D:\lxzsrc\ParacraftBuild\res</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>*</Item>
+                    </Include>
+                    <Exclude>
+                        <Item>*.pkg</Item>
+                    </Exclude>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
         </FolderPairs>
         <OnCompletion/>
     </MainConfig>
