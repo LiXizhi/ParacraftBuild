@@ -50,6 +50,7 @@
                     </Include>
                     <Exclude>
                         <Item>*.pkg</Item>
+                        <Item>*.ffs_db</Item>
                     </Exclude>
                     <TimeSpan Type="None">0</TimeSpan>
                     <SizeMin Unit="None">0</SizeMin>
