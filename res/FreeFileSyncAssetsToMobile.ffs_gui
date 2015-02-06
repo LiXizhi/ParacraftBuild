@@ -7,7 +7,7 @@
             <Symlinks>Exclude</Symlinks>
         </Comparison>
         <SyncConfig>
-            <Variant>TwoWay</Variant>
+            <Variant>Mirror</Variant>
             <CustomDirections>
                 <LeftOnly>right</LeftOnly>
                 <RightOnly>left</RightOnly>
@@ -157,6 +157,7 @@
                     </Include>
                     <Exclude>
                         <Item>*.max</Item>
+                        <Item>\05plants\</Item>
                     </Exclude>
                     <TimeSpan Type="None">0</TimeSpan>
                     <SizeMin Unit="None">0</SizeMin>

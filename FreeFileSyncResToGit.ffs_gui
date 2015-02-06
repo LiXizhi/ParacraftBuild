@@ -7,7 +7,7 @@
             <Symlinks>Exclude</Symlinks>
         </Comparison>
         <SyncConfig>
-            <Variant>TwoWay</Variant>
+            <Variant>Mirror</Variant>
             <CustomDirections>
                 <LeftOnly>right</LeftOnly>
                 <RightOnly>left</RightOnly>
