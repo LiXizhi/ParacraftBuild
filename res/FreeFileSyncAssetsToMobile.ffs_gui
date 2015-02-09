@@ -42,6 +42,10 @@
                 <Right/>
             </Pair>
             <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\Effect</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\Effect</Right>
+            </Pair>
+            <Pair>
                 <Left>D:\lxzsrc\ParaEngine\ParaWorld\config\Aries\creator</Left>
                 <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\config\Aries\creator</Right>
                 <LocalFilter>

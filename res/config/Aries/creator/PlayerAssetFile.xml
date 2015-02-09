@@ -2,7 +2,7 @@
 -->
 <PlayerAssets>
   <asset filename="character/CC/01char/char_male.x" name="default" displayname="通用人物"/>
-  <asset filename="character/v5/10mobs/HaqiTown/TreeMonster/TreeMonster.x" name="TreeMonster" displayname="树妖"/>
+  <asset filename="character/CC/03animals/treemonster/treemonster.x" name="treemonster" displayname="树妖"/>
   <asset filename="character/CC/03animals/cow/cow.x" name="cow" displayname="奶牛"/>
   <asset filename="character/CC/03animals/pig/pig.x" name="pig" displayname="小猪"/>
   <asset filename="character/CC/03animals/sheep/sheep.x" name="sheep" displayname="棉羊"/>

@@ -107,6 +107,7 @@
     <anim id="134" desc="坐着仰头"/>
     <anim id="135" desc="右手抬起，左手捂嘴"/>
     <anim id="136" desc="左手侧方伸出"/>
+    <anim id="137" desc="双手前伸"/>
     <anim id="153" desc="待机休息"/>
   </model>
 </anims>

@@ -534,8 +534,8 @@ Sound related:
   <block id="10063" name="TimeSeriesCommands" text="命令序列" searchkey="命令序列" item_class="ItemTimeSeriesCommands" tooltip="命令序列" icon="Texture/blocks/items/ts_block.png"></block>
 
   <!--怪物和动物： id: 20000-20999-->
-  <block id="20001" name="simple_mob" text="怪物" searchkey="怪物" tooltip="" item_class="ItemMob" icon="character/v5/10mobs/HaqiTown/TreeMonster/TreeMonster.x.png" gold_count="5" hp="100" respawn_time="300000">
-    <model assetfile="character/v5/10mobs/HaqiTown/TreeMonster/TreeMonster.x" scaling="0.5" ></model>
+  <block id="20001" name="simple_mob" text="怪物" searchkey="怪物" tooltip="" item_class="ItemMob" icon="character/CC/03animals/treemonster/treemonster.x.png" gold_count="5" hp="100" respawn_time="300000">
+    <model assetfile="character/CC/03animals/treemonster/treemonster.x" scaling="0.5" ></model>
   </block>
   <block id="20002" name="player_spawn_point" text="出生点" searchkey="出生点" tooltip="" entity_class="EntityHomePoint" item_class="ItemCollectable" icon="Texture/blocks/items/spawnpoint.png" can_pick = "false" max_count = "1">
     <model assetfile="character/CC/05effect/Birthplace/Birthplace.x" scaling="0.6" ></model>
