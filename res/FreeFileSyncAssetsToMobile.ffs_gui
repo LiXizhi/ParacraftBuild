@@ -42,6 +42,19 @@
                 <Right/>
             </Pair>
             <Pair>
+                <Left>D:\lxzsrc\ParaCraftSDKGit\redist</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res</Right>
+                <LocalFilter>
+                    <Include>
+                        <Item>version.txt</Item>
+                    </Include>
+                    <Exclude/>
+                    <TimeSpan Type="None">0</TimeSpan>
+                    <SizeMin Unit="None">0</SizeMin>
+                    <SizeMax Unit="None">0</SizeMax>
+                </LocalFilter>
+            </Pair>
+            <Pair>
                 <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\Effect</Left>
                 <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\Effect</Right>
             </Pair>
