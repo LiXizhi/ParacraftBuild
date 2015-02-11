@@ -1,8 +1,0 @@
-
-<entities file_version="0.1">
-	<entity bz="19201" bx="19202" class="EntityCommandBlock" item_id="212" by="3">
-		<cmd>/tip hello world
-		</cmd>
-		<inventory/>
-	</entity>
-</entities>
