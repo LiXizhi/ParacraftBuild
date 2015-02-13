@@ -4,7 +4,7 @@
         <Comparison>
             <Variant>TimeAndSize</Variant>
             <TimeShift>0</TimeShift>
-            <Symlinks>Exclude</Symlinks>
+            <Symlinks>Follow</Symlinks>
         </Comparison>
         <SyncConfig>
             <Variant>Mirror</Variant>
@@ -49,7 +49,7 @@
                         <Item>*</Item>
                     </Include>
                     <Exclude>
-                        <Item>*.pkg</Item>
+                        <Item>main_full.pkg</Item>
                         <Item>*.ffs_db</Item>
                     </Exclude>
                     <TimeSpan Type="None">0</TimeSpan>

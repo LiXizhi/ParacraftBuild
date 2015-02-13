@@ -205,7 +205,7 @@ Sound related:
   <!--Added LiXizhi 2014.1.7: name="Chest" text="箱子" searchkey="" mc_id="54"-->
   <block name="Chest" text="箱子" searchkey="箱子" mc_id="54" id="215" class="BlockChest" material="wood" entity_class="EntityChest" hasAction="true" icon="Texture/blocks/items/Chest.png" texture="Texture/blocks/Chest.png" obstruction="true" solid="true" transparent="true" customModel="true" />
   <!--Added LiXizhi 2013.12.2: name="Redstone_Wire" text="红石线" searchkey="" mc_id="55" 先不做-->
-  <block name="Redstone_Wire" text="红石线" searchkey="红石线" mc_id="55" id="189" class="BlockRedstoneWire" icon="Texture/blocks/items/redstone_dust.png" texture="Texture/blocks/Redstone_Wire_mip1.png" shape="wire" cubeMode="true" customModel="true" transparent="true" alphaTestTexture="true" modelName="wire" />
+  <block name="Redstone_Wire" text="红石线" searchkey="红石线" mc_id="55" id="189" class="BlockRedstoneWire" icon="Texture/blocks/items/redstone_dust.png" texture="Texture/blocks/Redstone_Wire_mip1.png" shape="wire" cubeMode="true" customModel="true" transparent="true" blendedTexture="true" modelName="wire" />
   
   <!--added by Jingqi 2013.11.3: name="Diamond_Ore" text="钻石矿石" searchkey="" mc_id="56"-->
   <block singleSideTex="true" name="Diamond_Ore" text="钻石矿石" searchkey="钻石矿石" mc_id="56" id="147" icon="Texture/blocks/items/ore_diamond.png" material="rock" step_sound="stone" texture="Texture/blocks/diamond_ore.png" obstruction="true" solid="true" cubeMode="true"  />
