@@ -43,6 +43,10 @@
             </Pair>
             <Pair>
                 <Left>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res</Left>
+                <Right>D:\lxzsrc\ParaCraftSDKGit\build\ParacraftBuild\res</Right>
+            </Pair>
+            <Pair>
+                <Left>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res</Left>
                 <Right>D:\lxzsrc\ParacraftBuild\res</Right>
                 <LocalFilter>
                     <Include>

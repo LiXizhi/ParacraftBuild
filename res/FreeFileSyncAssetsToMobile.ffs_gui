@@ -42,6 +42,10 @@
                 <Right/>
             </Pair>
             <Pair>
+                <Left>D:\lxzsrc\ParaEngine\ParaWorld\Texture\blocks</Left>
+                <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res\Texture\blocks</Right>
+            </Pair>
+            <Pair>
                 <Left>D:\lxzsrc\ParaCraftSDKGit\redist</Left>
                 <Right>D:\lxzsrc\ParaEngineGit\Mobile\trunk\ParaCraftMobile\res</Right>
                 <LocalFilter>

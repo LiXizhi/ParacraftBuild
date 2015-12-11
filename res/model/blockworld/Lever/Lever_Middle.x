@@ -5,8 +5,8 @@ ParaXHeader header{
 1,0,0,0;
 1;
 0;
--0.499372;-0.351664;-0.260891;;
-0.150086;0.370543;0.260891;;
+-0.550000;-0.450000;-0.450000;;
+0.350000;0.450000;0.450000;;
 3;
 }
 Mesh mesh_object{
@@ -220,7 +220,7 @@ Material {
 0.0;
 0.900000;0.900000;0.900000;;
 1.000000;0.000000;0.000000;;
-TextureFilename {"Texture/blocks/endframe_top.dds";}
+TextureFilename {"Texture/blocks/endframe_top.png";}
 }
 }// materials
 MeshTextureCoords {
